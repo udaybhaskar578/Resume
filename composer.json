@@ -1,0 +1,10 @@
+
+{
+    "type": "",
+	"name": "",
+    "description": "",
+    "require": {
+        "sparkpost/sparkpost": "*",
+        "php-http/httplug":"*"
+    }
+}
